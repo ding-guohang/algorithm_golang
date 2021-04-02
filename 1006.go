@@ -65,6 +65,3 @@ func clumsy(N int) int {
 	return ret
 }
 
-func main() {
-	println(clumsy(10))
-}
